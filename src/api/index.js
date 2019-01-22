@@ -176,21 +176,21 @@ export default ({
 
 	let users = new Object([
 		{
-			id: "1",
+			id: '1',
 			name: 'uland',
 			displayName: 'Uland Nimblehoof',
 			email: 'uland@gmail.com',
 			adult: true
 		},
 		{
-			id: "2",
+			id: '2',
 			name: 'okyl',
 			displayName: 'Okyl Bjornsen',
 			email: 'okyl@gmail.com',
 			adult: false
 		},
 		{
-			id: "3",
+			id: '3',
 			name: 'malcom',
 			displayName: 'Malcom Freeman',
 			email: 'malcom@gmail.com',
